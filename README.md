@@ -77,7 +77,7 @@ have contributed to.
 If repositories you contributed to don't meet the requirements for your contributions to be counted
 after leaving, the script will show a warning.
 
-Once you've made changes, you can delete the `.cache-<org name>` file that was created during the `--scan` process, and run the scan again.
+Once you've made changes, you can delete the `.cache-<myorg>` file that was created during the `--scan` process, and run the scan again.
 
 
 ## Links
