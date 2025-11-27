@@ -31,6 +31,14 @@ To run the script, get a [classic personal access token](https://docs.github.com
 classic token) and export it as `GH_TOKEN` or provide it via the command line
 argument `--token` or store it to a file and use `--token-file`.
 
+To export it, use the syntax:
+
+```shell
+export GH_TOKEN="<your PAT token>"
+```
+
+Note: Your classic PAT will require `repo` and `read:user` permissions.
+
 So let's assume your github username is `myuser` and you're leaving the
 `myorg` organisation. Then run:
 
